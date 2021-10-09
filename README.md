@@ -26,11 +26,11 @@ This research presents a method to detect breast cancer by employing techniques 
 
 - ## Decision Tree
 
-**By using Naive Bayes** **Accuracy**: 92.98%, **Precision (positive class: B)**: 91.60%, **Recall(positive class: B)**: 97.76%
+**By using Decision Tree** **Accuracy**: 92.98%, **Precision (positive class: B)**: 91.60%, **Recall(positive class: B)**: 97.76%
 
 - ## k Nearest Neighbors algorithm (kNN)
 
-**By using Naive Bayes** **Accuracy**: 90.86%, **Precision (positive class: B)**: 91.78%, **Recall(positive class: B)**: 93.84%
+**By using kNN** **Accuracy**: 90.86%, **Precision (positive class: B)**: 91.78%, **Recall(positive class: B)**: 93.84%
 
 We have tried to analyze the breast cancer data available on kaggle.com with the aim of developing an accurate prediction model using Data mining techniques. Experimental results show that the proposed algorithms reduce data transmissions significantly and incur only small constant rounds of data communications. The experimental results demonstrate the superiority of the supervised algorithm — Artificial Neural Network, which achieves a near-optimal performance under various conditions.
 
