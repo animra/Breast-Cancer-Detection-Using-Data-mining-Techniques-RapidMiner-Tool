@@ -2,13 +2,14 @@
 
 Breast cancer poses a serious threat to the lives of people and is the second leading cause of the death of women today. Due to the increase in life expectancy, urbanization, and adoption of unknown western lifestyles the incidence of breast cancer is constantly increasing in this developing world. Although there are many treatments to cure breast cancer, these strategies cannot eliminate the majority of cancer that develop in lower and lower-middle class families where breast cancer is diagnosed at a very later stage. 
 In order to improve the diagnosis of breast cancer and survival outcome, early detection remains the cornerstone of breast cancer control.
+
+# RapidMiner 
+
+We have used Rapid miner tool to implement below algorithms. RapidMiner is a data science software platform developed by the company of the same name that provides an integrated environment for data preparation, machine learning, deep learning, text mining, and predictive analytics. It is used for business and commercial applications as well as for research, education, training, rapid prototyping, and application development and supports all steps of the machine learning process including data preparation, results visualization, model validation, and optimization. You can download RapidMiner from this link: (https://rapidminer.com/)
 # Dataset
 
 The dataset is taken from (https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) or you can directly download from github repository.
 The dataset which we have used to perform this research is downloaded from kaggle.com. It consists of a total of 32 attributes consisting of I.D. number, Diagnosis (M= malignant and B= benign) and other 30 real valued input features with a class distribution of 357 benign and 212 malignant cells.
-# RapidMiner 
-
-We have used Rapid miner tool to implement below algorithms. RapidMiner is a data science software platform developed by the company of the same name that provides an integrated environment for data preparation, machine learning, deep learning, text mining, and predictive analytics. It is used for business and commercial applications as well as for research, education, training, rapid prototyping, and application development and supports all steps of the machine learning process including data preparation, results visualization, model validation, and optimization. You can download RapidMiner from this link: (https://rapidminer.com/)
 
 **How to you use RapidMiner?** You can get help from this link: (https://docs.rapidminer.com/latest/studio/getting-started/)
 
