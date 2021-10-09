@@ -12,5 +12,5 @@ We have used Rapid miner tool to implement below algorithms. RapidMiner is a dat
 
 This research presents a method to detect breast cancer by employing techniques of data mining using RapidMiner Tool .  We carried out an experimental analysis on a dataset to evaluate the performance. The proposed method has produced highly accurate and efficient results when compared to the existing methods.We focus on the dataset of breast cancer and apply four data mining algorithms to predict the most accurate model for the diagnosis of breast cancer. For the purpose of this research, we have used RapidMiner as the software platform and evaluated the dataset using ANN, Decision Tree, Naïve Bayes, and k-NN classification techniques.The experimental results demonstrate the superiority of the supervised algorithm — Artificial Neural Network, which achieves a near-optimal performance under various conditions.
 
-- Artificial Neural Network
+- ## Artificial Neural Network
 You can see detailed blog of "Breast Cancer Detection Using Data mining Techniques" here: https://medium.com/@nimraakram/breast-cancer-detection-using-data-mining-techniques-82d1f282dd69
