@@ -10,7 +10,7 @@ The dataset which we have used to perform this research is downloaded from kaggl
 
 We have used Rapid miner tool to implement below algorithms. RapidMiner is a data science software platform developed by the company of the same name that provides an integrated environment for data preparation, machine learning, deep learning, text mining, and predictive analytics. It is used for business and commercial applications as well as for research, education, training, rapid prototyping, and application development and supports all steps of the machine learning process including data preparation, results visualization, model validation, and optimization. You can download RapidMiner from this link: (https://rapidminer.com/)
 
-**How to you use RapidMiner?** You can take get help from this link: (https://docs.rapidminer.com/latest/studio/getting-started/)
+**How to you use RapidMiner?** You can get help from this link: (https://docs.rapidminer.com/latest/studio/getting-started/)
 
 # Mining Algorithms
 
