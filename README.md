@@ -4,7 +4,7 @@ Breast cancer poses a serious threat to the lives of people and is the second le
 In order to improve the diagnosis of breast cancer and survival outcome, early detection remains the cornerstone of breast cancer control. https://www.google.com/search?
 # Dataset
 
-The dataset is taken from  or you can directly download from here. [![Breast Cancer Dataset](tbs=simg:CAQS_1wEJmiTa_154FkYAa8wELELCMpwgaOgo4CAQSFKErpDb0CdQf_1RzuN9gLsh7CA8YyGhoppBtKq8B4wSHJalRJmcCnambrA7i5-Qx6zCAFMAQMCxCOrv4IGgoKCAgBEgTj8KafDAsQne3BCRqTAQobCghsYW5ndWFnZdqliPYDCwoJL2ovMnNoX3k0ChsKCHZlcnRpY2Fs2qWI9gMLCgkvYS80aGgzcDAKIAoNZmFzaGlvbiBicmFuZNqliPYDCwoJL2ovZDh4cDJnChYKA2RvdNqliPYDCwoJL20vMDI3Y3RnCh0KCmhvcml6b250YWzapYj2AwsKCS9hLzJtcXZ6Yww&sxsrf=AOaemvIAwxw9t9sMJxAuKLFditfYDmjITg:1633774563075&q=language&tbm=isch&sa=X&ved=2ahUKEwjR6-XDjL3zAhUhSvEDHe4lBK4Qwg4oAHoECAEQMA&biw=1366&bih=625&dpr=1)] (https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
+The dataset is taken from (https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) or you can directly download from github repository
 The dataset which we have used to perform this research is downloaded from kaggle.com. It consists of a total of 32 attributes consisting of I.D. number, Diagnosis (M= malignant and B= benign) and other 30 real valued input features with a class distribution of 357 benign and 212 malignant cells.
 # RapidMiner https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
