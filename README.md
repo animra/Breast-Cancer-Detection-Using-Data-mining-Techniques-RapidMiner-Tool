@@ -8,12 +8,13 @@ The dataset is taken from (https://www.kaggle.com/uciml/breast-cancer-wisconsin-
 The dataset which we have used to perform this research is downloaded from kaggle.com. It consists of a total of 32 attributes consisting of I.D. number, Diagnosis (M= malignant and B= benign) and other 30 real valued input features with a class distribution of 357 benign and 212 malignant cells.
 # RapidMiner 
 
-We have used Rapid miner tool to implement below algorithms. RapidMiner is a data science software platform developed by the company of the same name that provides an integrated environment for data preparation, machine learning, deep learning, text mining, and predictive analytics. It is used for business and commercial applications as well as for research, education, training, rapid prototyping, and application development and supports all steps of the machine learning process including data preparation, results visualization, model validation, and optimization. You can download RapidMiner from this link: https://rapidminer.com/
+We have used Rapid miner tool to implement below algorithms. RapidMiner is a data science software platform developed by the company of the same name that provides an integrated environment for data preparation, machine learning, deep learning, text mining, and predictive analytics. It is used for business and commercial applications as well as for research, education, training, rapid prototyping, and application development and supports all steps of the machine learning process including data preparation, results visualization, model validation, and optimization. You can download RapidMiner from this link: (https://rapidminer.com/)
 
-**How to you use RapidMiner?** You can take get help from this link: https://docs.rapidminer.com/latest/studio/getting-started/
-# Mining Algorithm
+**How to you use RapidMiner?** You can take get help from this link: (https://docs.rapidminer.com/latest/studio/getting-started/)
 
-This research presents a method to detect breast cancer by employing techniques of data mining using RapidMiner Tool .  We carried out an experimental analysis on a dataset to evaluate the performance. The proposed method has produced highly accurate and efficient results when compared to the existing methods.We focus on the dataset of breast cancer and apply four data mining algorithms to predict the most accurate model for the diagnosis of breast cancer. For the purpose of this research, we have used RapidMiner as the software platform and evaluated the dataset using ANN, Decision Tree, Naïve Bayes, and k-NN classification techniques.The experimental results are shown below:
+# Mining Algorithms
+
+This research presents a method to detect breast cancer by employing techniques of data mining using RapidMiner Tool. We carried out an experimental analysis on a dataset to evaluate the performance. The proposed method has produced highly accurate and efficient results when compared to the existing methods. We focus on the dataset of breast cancer and apply four data mining algorithms to predict the most accurate model for the diagnosis of breast cancer. For the purpose of this research, we have used RapidMiner as the software platform and evaluated the dataset using ANN, Decision Tree, Naive Bayes, and k-NN classification techniques.The experimental results are shown below:
 
 - ## Artificial Neural Network
 
