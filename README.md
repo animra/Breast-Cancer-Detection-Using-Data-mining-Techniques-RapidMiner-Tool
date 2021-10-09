@@ -18,6 +18,7 @@ This research presents a method to detect breast cancer by employing techniques 
 - ## Artificial Neural Network
 
 Artificial Neural Network (ANN) classifier is used in this work as it is a commonly used classifier for breast cancer classification. Neural Network composed of simple elements that are inspired by biological neurons operates in parallel. You can train a neural network to perform a specific function by adjusting weights between elements. A neural network is trained to get the desired output. The network is adjusted based on the comparison with the output and the corresponding target until the network output matches the target. ANN classifier is based on two steps, i.e., training and testing. Classification accuracy depends on training.
+- **By using ANN** **Accuracy**: 97.19%, **Precision (positive class: B)**: 97.07%, **Recall (positive class: B)**: 98.60%
 
 
 You can see detailed blog of "Breast Cancer Detection Using Data mining Techniques" here: https://medium.com/@nimraakram/breast-cancer-detection-using-data-mining-techniques-82d1f282dd69
