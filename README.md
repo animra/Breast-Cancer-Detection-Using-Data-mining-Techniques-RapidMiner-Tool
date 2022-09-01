@@ -36,5 +36,5 @@ This research presents a method to detect breast cancer by employing techniques 
 
 We have tried to analyze the breast cancer data available on kaggle.com with the aim of developing an accurate prediction model using Data mining techniques. Experimental results show that the proposed algorithms reduce data transmissions significantly and incur only small constant rounds of data communications. The experimental results demonstrate the superiority of the supervised algorithm — Artificial Neural Network, which achieves a near-optimal performance under various conditions.
 
-For more details:
+For more details
 You can see detailed blog of "Breast Cancer Detection Using Data mining Techniques" here: https://medium.com/@nimraakram/breast-cancer-detection-using-data-mining-techniques-82d1f282dd69 
