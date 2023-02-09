@@ -1,4 +1,4 @@
-# Breast Cancer Detection Using Data mining Techniques (RapidMiner)
+# Breast Cancer Detection Using Data mining Techniques - (RapidMiner)
 
 Breast cancer poses a serious threat to the lives of people and is the second leading cause of the death of women today. Due to the increase in life expectancy, urbanization, and adoption of unknown western lifestyles the incidence of breast cancer is constantly increasing in this developing world. Although there are many treatments to cure breast cancer, these strategies cannot eliminate the majority of cancer that develop in lower and lower-middle class families where breast cancer is diagnosed at a very later stage. 
 In order to improve the diagnosis of breast cancer and survival outcome, early detection remains the cornerstone of breast cancer control.
